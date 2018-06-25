@@ -1,0 +1,88 @@
+.center{
+	text-align: center;
+}
+.pad_top{
+	padding-top: 50px;
+
+}
+
+a:hover { 
+	border-color: #ffff;
+ }
+
+ a{
+    text-decoration:none;
+}
+
+.navbarS {
+	color:white;
+  background-color: #222222;
+  background: repeating-linear-gradient(45deg, #2b2b2b 0%, #2b2b2b 10%, #222222 0%, #222222 50%) 0 / 15px 15px;
+}
+
+
+a h1 {
+	background-color: black;
+	  -webkit-text-stroke: 1px red;
+	 text-shadow: 2px 2px 5px red;
+	 border: 1px solid red;
+    border-radius: 12px;
+    box-shadow: 3px 3px grey;
+
+
+
+}
+
+hr {
+	color: white;
+
+}
+
+
+img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.background{
+
+	background-color: #262626;
+}
+
+body {
+
+	background-image: url("funscape.jpg");
+}
+
+.title{
+	color:white;
+	font-family: monoton;
+	word-wrap: break-word;
+}
+
+.pad_side{
+
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+
+.staythere{
+	width:100%;
+}
+
+.seeing {
+	word-wrap: break-word;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+
+.mapstyle {
+	border: 1px solid white;
+	border-radius: 5px;
+}
+
+.spacepls{
+
+	padding:20px;
+}
