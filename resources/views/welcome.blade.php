@@ -12,13 +12,12 @@
 
 <!--zomato api:829ee093cf913fa13053425a408dffcc-->
 
-<div class="container">
+<div>
   <div class="row">
     <div class="col col-md-2">
       <br><br>
 
     <div class="navbarS mapstyle spacepls center">
-      <p>Use our referral links for 10$ off! </p>
       <hr>
          <div class="staythere"><a href="http://fbuy.me/jfGab"> <img src="nicehub.jpg" alt="picture of grubhub logo"></a></div>
       <hr>
@@ -43,7 +42,7 @@
       
     </div>
 
-    <div class="col-md-7 center">
+    <div class="col-md-8 center">
 
       
        <br>
@@ -52,8 +51,8 @@
 
 <div class="spacepls">
 
-          <div class="container center">
-            <div id="map" class = "staythere mapstyle"style="width:auto;height:375px;"></div>
+          <div class=" center">
+            <div id="map" class = "staythere mapstyle"style="width:auto;height:500px;"></div>
           </div>
             
             <br>
@@ -87,7 +86,7 @@
     </div>
 
 
-      <div class="col col-md-3 ">
+      <div class="col-md-2">
         
         <div class="container pad_top">
         <div class="navbarS mapstyle whitetext spacepls center">        
@@ -129,24 +128,7 @@
     </div>
     </div>
 
-  </div>
-  <div class="row pad_top">
 
-    <div class="col-md-2"></div>
-
-  <div class="col-md-7">
- 
-
-  </div>
-
-  <div class="col-md-3">
-    
-
-
-</div>
-
-
-</div>
 
 <br><br>
 
