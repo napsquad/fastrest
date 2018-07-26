@@ -18,6 +18,7 @@
       <br><br>
 
     <div class="navbarS mapstyle spacepls center">
+      <p>$10 off your order!</p>  
       <hr>
          <div class="staythere"><a href="http://fbuy.me/jfGab"> <img src="nicehub.jpg" alt="picture of grubhub logo"></a></div>
       <hr>
@@ -88,7 +89,7 @@
 
       <div class="col-md-2">
         
-        <div class="container pad_top">
+        <div class=" pad_top">
         <div class="navbarS mapstyle whitetext spacepls center">        
         <p><u><strong>Cant Choose? Let us!</strong></u></p>
 
@@ -122,8 +123,7 @@
 
 
       </div>
-      <!--https://developers.zomato.com/api/v2.1/search?entity_type=city&start=10&count=10&lat=41.001708&lon=-75.1548948&radius=1&sort=real_distance&order=desc
--->
+ 
 
     </div>
     </div>
