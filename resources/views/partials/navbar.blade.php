@@ -10,7 +10,7 @@
         <a class="nav-link title" href="/">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item active" >
-        <a class="nav-link title" href="https://twitter.com/nomoodfood">Twitter</a>
+        <a class="nav-link twitter" href="https://twitter.com/nomoodfood">Twitter</a>
       </li>
       
     </ul>
