@@ -4,12 +4,16 @@
     var long;
 
   $(document).ready(function(){
-    
+
+    navigator.geolocation.getCurrentPosition(showPosition); // initialize geolocation before we query
+
           var mapOptions = {
+
               center: new google.maps.LatLng(40.7128, -74.0060),
               zoom: 15,
               mapTypeId: google.maps.MapTypeId.HYBRID
           }
+
       var map = new google.maps.Map(document.getElementById("map"), mapOptions);
       
     });

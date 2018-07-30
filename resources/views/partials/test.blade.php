@@ -279,10 +279,9 @@ function createMarker(place) {
         });
 
         marker.addListener('click', function() {
+
           map.setZoom(19);
           map.setCenter(marker.getPosition());
-          marker.infowindow.setContent(place.name);
-          infowindow.open(map, this);
         });
 
       }
