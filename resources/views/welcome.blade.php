@@ -12,6 +12,7 @@
 
 <div>
   <div class="row">
+
     <div class="col col-md-2" id="content-desktop">
       <br><br>
 
@@ -51,8 +52,26 @@
 <div class="spacepls">
 
           <div class=" center">
-            <div id="map" class = "staythere mapstyle"style="width:auto;height:400px;"></div>
+            <div id="map" class = "staythere mapstyle mapsize"></div>
           </div>
+
+
+
+
+
+          <!-- hopefully this map will get working soon
+            <iframe
+              id="map"
+              width="600"
+              height="450"
+              frameborder="0" style="border:0"
+              src="https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY
+                &q=Space+Needle,Seattle+WA" allowfullscreen>
+            </iframe>
+            
+            -->
+
+
             
             <br>
 
