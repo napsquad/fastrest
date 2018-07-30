@@ -44,12 +44,31 @@ hr {
 
 }
 
+
 .whitetext{
 	color:white;
 }
+
+
 img {
     width: 100%;
     border-radius: 5px;
+}
+
+
+@media screen and (max-width: 990px){
+
+
+#content-desktop {
+	visibility: hidden;
+}
+
+
+#content-mobile {
+	visibility: show;
+}
+
+
 }
 
 .background{

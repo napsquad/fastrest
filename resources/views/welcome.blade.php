@@ -12,7 +12,7 @@
 
 <div>
   <div class="row">
-    <div class="col col-md-2">
+    <div class="col col-md-2" id="content-desktop">
       <br><br>
 
     <div class="navbarS mapstyle spacepls center">
@@ -85,13 +85,13 @@
     </div>
 
 
-      <div class="col-md-2">
+      <div class="col-md-2" id="content-desktop">
         
         <div class=" pad_top">
         <div class="navbarS mapstyle whitetext spacepls center">        
-        <p><u><strong>Cant Choose? Let us!</strong></u></p>
+        <p><u><strong>Roll the dice!</strong></u></p>
 
-        <p> For the times when you cant figure out where to go, when youre in a new city and want an adventure or just when you want to try something new!
+        <p> For the times when you cant figure out where to eat, when you're in a new city and want to try something new!
         </p>
         </div>  
 
