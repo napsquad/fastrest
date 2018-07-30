@@ -10,8 +10,6 @@
 </head>
 <body class="background">
 
-<!--zomato api:829ee093cf913fa13053425a408dffcc-->
-
 <div>
   <div class="row">
     <div class="col col-md-2">

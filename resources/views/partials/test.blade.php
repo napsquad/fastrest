@@ -1,5 +1,5 @@
 <script>
-	
+
 var key = "AIzaSyAN9YAvruG7lkiu3Hpk1DgWivx8BC8N6o8";
 
 var items, lat, long, map, infowindow;
@@ -25,6 +25,30 @@ $(document).ready(function()
          }
 	});
 });
+
+
+$(document).ready(function()
+{
+
+  $("#restaurant").click(function()
+  {
+
+      if (navigator.geolocation) 
+         {
+
+            navigator.geolocation.getCurrentPosition(showPosition);
+            getRest();
+
+         }
+         else
+         {
+
+          alert("geolocation is broken or not supported on your browser");
+
+         }
+  });
+});
+
 
 $(document).ready(function()
 {
@@ -60,30 +84,6 @@ $(document).ready(function()
 
             navigator.geolocation.getCurrentPosition(showPosition);
             getAllBars();
-
-         }
-         else
-         {
-
-          alert("geolocation is broken or not supported on your browser");
-
-         }
-  });
-});
-
-
-
-$(document).ready(function()
-{
-
-  $("#restaurant").click(function()
-  {
-
-      if (navigator.geolocation) 
-         {
-
-            navigator.geolocation.getCurrentPosition(showPosition);
-            getRest();
 
          }
          else
@@ -148,27 +148,6 @@ function getBar()
 
 }
 
-function getLocBar(distnce)
-{
-   var current = new google.maps.LatLng(lat, long);
-
-   map = new google.maps.Map(document.getElementById('map'), {
-      center: current,
-      zoom: 12
-     });
-
-   var item = parseInt(distnce);
-
-  var request = {
-    location: current,
-    radius: item,
-    type: ['bar']
-    };
-
-  service = new google.maps.places.PlacesService(map);
-  service.nearbySearch(request, callback);
-
-}
 
 
 function getRest()
@@ -191,13 +170,36 @@ function getRest()
 }
 
 
+
+function getLocBar(distance)
+{
+   var current = new google.maps.LatLng(lat, long);
+
+   map = new google.maps.Map(document.getElementById('map'), {
+      center: current,
+      zoom: 15
+     });
+
+   var item = parseInt(distance);
+
+  var request = {
+    location: current,
+    radius: item,
+    type: ['bar']
+    };
+
+  service = new google.maps.places.PlacesService(map);
+  service.nearbySearch(request, callback);
+
+}
+
 function getAllRest()
 {
    var current = new google.maps.LatLng(lat, long);
 
    map = new google.maps.Map(document.getElementById('map'), {
       center: current,
-      zoom: 14
+      zoom: 12
      });
 
   var request = {
@@ -218,7 +220,7 @@ function getAllBars()
 
    map = new google.maps.Map(document.getElementById('map'), {
       center: current,
-      zoom: 14
+      zoom: 12
      });
 
   var request = {
@@ -276,11 +278,12 @@ function createMarker(place) {
           position: place.geometry.location
         });
 
-        google.maps.event.addListener(marker, 'click', function() {
-          infowindow.setContent(place.name);
+        marker.addListener('click', function() {
+          map.setZoom(19);
+          map.setCenter(marker.getPosition());
+          marker.infowindow.setContent(place.name);
           infowindow.open(map, this);
         });
-
 
       }
 
