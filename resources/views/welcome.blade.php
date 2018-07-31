@@ -150,14 +150,6 @@
         
         <div id="content-desktop">
         <div class=" pad_top">
-        <div class="navbarS mapstyle whitetext spacepls center">        
-        <p><u><strong>Roll the dice!</strong></u></p>
-
-        <p> For the times when you cant figure out where to eat, when you're in a new city and want to try something new!
-        </p>
-        </div>  
-
-
           <br>
 
         <div class="navbarS mapstyle center spacepls">
