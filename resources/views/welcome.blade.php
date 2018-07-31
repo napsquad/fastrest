@@ -13,7 +13,7 @@
 <div>
   <div class="row">
 
-    <div class="col col-md-2" id="content-desktop">
+    <div class="col col-md-2">
       <br><br>
 
     <div class="navbarS mapstyle spacepls center">
@@ -129,8 +129,24 @@
     </div>
 
 
-      <div class="col-md-2" id="content-desktop">
+      <div class="col-md-2">
+        <br><br>
+
+         <div class="navbarS mapstyle spacepls center pad_top">
+        <p>$10 off your order!</p> 
+
+        <hr>
+           <div class="staythere"><a href="http://fbuy.me/jfGab"> <img src="nicehub.jpg" alt="picture of grubhub logo"></a></div>
+
+        <hr>
+
+           <div class="staythere"><a href="https://postmat.es/idMkqeTvUN"> <img src="postmates.png" alt="picture of grubhub logo"></a></div>
+           
+      </div>
+
+
         
+        <div id="content-desktop">
         <div class=" pad_top">
         <div class="navbarS mapstyle whitetext spacepls center">        
         <p><u><strong>Roll the dice!</strong></u></p>
@@ -155,6 +171,9 @@
 
               <hr>
             </div>
+            <br><br>
+           </div>
+
 
 
 
