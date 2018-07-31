@@ -4,7 +4,7 @@
 <html>
 <head>
 
-  <title>Random Restaurant Picker, NoMoodFood</title>
+  <title>Random Restaurant Picker | NoMoodFood</title>
     <meta name="description" content="Cant pick where to go, let us! Simply Click on 'Any bar' or 'Any
     Restaurant to select somewhere to go from the local places around you! Not in the mood for the first choice? Just try again!'">
     <meta http-equiv="content-type" content="text/html;charset=UTF-8">
