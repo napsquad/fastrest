@@ -244,7 +244,7 @@ function callback(results, status) {
 
     $('#name').text(results[x].name);
     $('#address').text(results[x].vicinity);
-    $('#rating').text(results[x].rating + " out of 5");
+    $('#rating').text(results[x].rating + " / 5");
 
     createMarker(results[x]);
 

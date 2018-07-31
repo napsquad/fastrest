@@ -24,22 +24,7 @@
          <div class="staythere"><a href="https://postmat.es/idMkqeTvUN"> <img src="postmates.png" alt="picture of grubhub logo"></a></div>
    </div>
 
-<br>
-
-<div class="navbarS mapstyle spacepls">
-
-      <p> <strong>Address:</strong></p>
-      <p id="address" class="center"></p>
-
-      <hr>
-
-      <p> <strong>Rating:</strong></p>
-      <p id="rating" class="center"></p>
-
-</div>
-
-
-      
+<br>     
     </div>
 
     <div class="col-md-8 center">
@@ -48,6 +33,19 @@
        <br>
        
       <a href="#"><h1 id="name" class="center title navbarS"> RANDOM RESTAURANT</h1> </a>
+
+
+<div class="navbarS mapstyle spacepls">
+
+      <strong>Address:</strong>
+      <h3 id="address" class="center"></h3>
+
+      <hr>
+
+      <strong>Rating:</strong>
+      <h3 id="rating" class="center"></h3>
+    </div>
+
 
 <div class="spacepls">
 
@@ -78,19 +76,19 @@
             <br>
 
            <div>
-           <button class="btn btn-outline-danger pad_side wavy" id="bars"style="width:150px;height:40px;"> Any Bar!</button>
+           <button class="btn btn-outline-danger pad_side wavy" id="bars"style="width:170px;height:40px;"> Random Bar!</button>
 
           <button class="btn btn-outline-primary pad_side wavy" id="update" style="width:150px;height:40px;"> Re-Center Map</button>
 
-          <button class="btn btn-outline-danger pad_side wavy" id="restaurant"style="width:150px;height:40px;"> Any Restaurant!</button>
+          <button class="btn btn-outline-danger pad_side wavy" id="restaurant"style="width:170px;height:40px;"> Random Restaurant!</button>
           </div>
 
           <br>
 
-          <div>
+          
            <button class="btn btn-success pad_side" id="AllBars"style="width:200px;height:50px;"> All Bars!</button>
-             <button class="btn btn-success pad_side" id="AllRestaurants"style="width:200px;height:50px;">All Restaurants</button> 
-        </div>
+             <button class="btn btn-success pad_side" id="AllRestaurants"style="width:200px;height:50px;">All Restaurants!</button> 
+        
 
 </div>
           <br>

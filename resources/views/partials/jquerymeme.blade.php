@@ -107,7 +107,7 @@
 
                 $("#name").text(JSON.stringify(places[x].restaurant.name).toUpperCase().replace(/['"]+/g, '').replace(/\s/g, '-'));
                 $("#address").text(JSON.stringify(places[x].restaurant.location.address));
-                $("#rating").text(JSON.stringify(places[x].restaurant.user_rating.aggregate_rating + " out of 5"));
+                $("#rating").text(JSON.stringify(places[x].restaurant.user_rating.aggregate_rating + "/ 5"));
                 $("#delivers").text(JSON.stringify(places[x].restaurant.user_rating.aggregate_rating));
                 $("#locationLat").text(JSON.stringify(places[x].restaurant.location.latitude));
                 $("#locationLong").text(JSON.stringify(places[x].restaurant.location.longitude));
