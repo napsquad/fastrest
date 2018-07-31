@@ -76,19 +76,19 @@
             <br>
 
            <div>
-           <button class="btn btn-outline-danger pad_side wavy" id="bars"style="width:190px;height:40px;"> 
+           <button class="btn btn-outline-danger pad_side wavy" id="bars"style="width:190px;height:70px;"> 
 
            <strong>Random Bar!</strong>
 
            </button>
 
-          <button class="btn btn-outline-primary pad_side wavy" id="update" style="width:150px;height:40px;"> 
+          <button class="btn btn-outline-primary pad_side wavy" id="update" style="width:150px;height:70px;"> 
 
           <strong>Re-Center Map</strong>
 
           </button>
 
-          <button class="btn btn-outline-danger pad_side wavy" id="restaurant"style="width:190px;height:40px;"> 
+          <button class="btn btn-outline-danger pad_side wavy" id="restaurant"style="width:190px;height:70px;"> 
             <strong>Random Restaurant!</strong>
 
           </button>
@@ -97,12 +97,12 @@
           <br>
 
           
-           <button class="btn btn-success pad_side" id="AllBars"style="width:200px;height:50px;">
+           <button class="btn btn-success pad_side" id="AllBars"style="width:200px;height:80px;">
             
             <strong>All Bars!</strong>
 
           </button>
-            <button class="btn btn-success pad_side" id="AllRestaurants"style="width:200px;height:50px;">
+            <button class="btn btn-success pad_side" id="AllRestaurants"style="width:200px;height:80px;">
           
           <strong>  All Restaurants! </strong>
 
