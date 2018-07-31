@@ -38,12 +38,12 @@
 <div class="navbarS mapstyle spacepls">
 
       <strong>Address:</strong>
-      <h3 id="address" class="center"></h3>
+      <h3 id="address" class="center">Click Buttons To Mark a New Place!</h3>
 
       <hr>
 
       <strong>Rating:</strong>
-      <h3 id="rating" class="center"></h3>
+      <h3 id="rating" class="center">Click the Marker To Zoom In On Your Choice!</h3>
     </div>
 
 
