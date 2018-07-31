@@ -17,11 +17,22 @@
       <br><br>
 
     <div class="navbarS mapstyle spacepls center">
-      <p>$10 off your order!</p>  
+      <p>$10 off your order!</p> 
+
+
       <hr>
+
          <div class="staythere"><a href="http://fbuy.me/jfGab"> <img src="nicehub.jpg" alt="picture of grubhub logo"></a></div>
+
       <hr>
+
          <div class="staythere"><a href="https://postmat.es/idMkqeTvUN"> <img src="postmates.png" alt="picture of grubhub logo"></a></div>
+
+        <hr>
+            <p>Follow Us On Twitter!</p>
+            <div class="staythere"><a href="https://twitter.com/nomoodfood"> <img src="twitter.jpg" alt="picture of twitter logo"></a></div>
+            
+
    </div>
 
 <br>     
@@ -132,15 +143,21 @@
       <div class="col-md-2">
         <br><br>
 
-         <div class="navbarS mapstyle spacepls center pad_top">
-        <p>$10 off your order!</p> 
+    <div class="navbarS mapstyle spacepls center">
+      <p>$10 off your order!</p> 
+
+
+      <hr>
+
+         <div class="staythere"><a href="http://fbuy.me/jfGab"> <img src="nicehub.jpg" alt="picture of grubhub logo"></a></div>
+
+      <hr>
+
+         <div class="staythere"><a href="https://postmat.es/idMkqeTvUN"> <img src="postmates.png" alt="picture of grubhub logo"></a></div>
 
         <hr>
-           <div class="staythere"><a href="http://fbuy.me/jfGab"> <img src="nicehub.jpg" alt="picture of grubhub logo"></a></div>
-
-        <hr>
-
-           <div class="staythere"><a href="https://postmat.es/idMkqeTvUN"> <img src="postmates.png" alt="picture of grubhub logo"></a></div>
+            <p>Follow Us On Twitter!</p>
+            <div class="staythere"><a href="https://twitter.com/nomoodfood"> <img src="twitter.jpg" alt="picture of twitter logo"></a></div>
            
       </div>
 
