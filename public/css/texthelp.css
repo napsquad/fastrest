@@ -82,6 +82,26 @@ img {
 
 }
 
+@media screen and (max-width: 9000px) and (min-width:991px)
+{
+
+#content-desktop {
+	visibility: show;
+}
+
+
+#content-mobile {
+	visibility: hide;
+}
+
+#map {
+
+	width:300px;
+	height:400px;
+}
+
+}
+
 .background {
 
 	background-color: #262626;

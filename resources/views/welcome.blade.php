@@ -76,18 +76,37 @@
             <br>
 
            <div>
-           <button class="btn btn-outline-danger pad_side wavy" id="bars"style="width:170px;height:40px;"> Random Bar!</button>
+           <button class="btn btn-outline-danger pad_side wavy" id="bars"style="width:190px;height:40px;"> 
 
-          <button class="btn btn-outline-primary pad_side wavy" id="update" style="width:150px;height:40px;"> Re-Center Map</button>
+           <strong>Random Bar!</strong>
 
-          <button class="btn btn-outline-danger pad_side wavy" id="restaurant"style="width:170px;height:40px;"> Random Restaurant!</button>
+           </button>
+
+          <button class="btn btn-outline-primary pad_side wavy" id="update" style="width:150px;height:40px;"> 
+
+          <strong>Re-Center Map</strong>
+
+          </button>
+
+          <button class="btn btn-outline-danger pad_side wavy" id="restaurant"style="width:190px;height:40px;"> 
+            <strong>Random Restaurant!</strong>
+
+          </button>
           </div>
 
           <br>
 
           
-           <button class="btn btn-success pad_side" id="AllBars"style="width:200px;height:50px;"> All Bars!</button>
-             <button class="btn btn-success pad_side" id="AllRestaurants"style="width:200px;height:50px;">All Restaurants!</button> 
+           <button class="btn btn-success pad_side" id="AllBars"style="width:200px;height:50px;">
+            
+            <strong>All Bars!</strong>
+
+          </button>
+            <button class="btn btn-success pad_side" id="AllRestaurants"style="width:200px;height:50px;">
+          
+          <strong>  All Restaurants! </strong>
+
+          </button> 
         
 
 </div>
@@ -100,6 +119,8 @@
         <button class="btn btn-outline-danger pad_side" id="where"> Pick Your Radius!</button>
 
       </div>
+
+
 
     </div>
 
