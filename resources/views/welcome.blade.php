@@ -31,7 +31,7 @@
         <hr>
             <p>Follow Us On Twitter!</p>
             <div class="staythere"><a href="https://twitter.com/nomoodfood"> <img src="twitter.jpg" alt="picture of twitter logo"></a></div>
-            
+
 
    </div>
 
@@ -43,7 +43,7 @@
       
        <br>
        
-      <a href="#"><h1 id="name" class="center title navbarS"> RANDOM RESTAURANT</h1> </a>
+      <a href="#"><h1 id="name" class="center title navbarS"> RANDOM-RESTAURANT</h1> </a>
 
 
 <div class="navbarS mapstyle spacepls">
@@ -89,7 +89,7 @@
            <div>
            <button class="btn btn-outline-danger pad_side wavy" id="bars"style="width:310px;height:70px;"> 
 
-           <strong><h3>New Bar!<h3></strong>
+           <strong><h3>NEW BAR!<h3></strong>
 
            </button>
 
@@ -97,14 +97,14 @@
 
           <button class="btn btn-outline-primary pad_side wavy" id="update" style="width:310px;height:70px;"> 
 
-          <strong><h3>Re-Center MAP<h3></strong>
+          <strong><h3>RE-CENTER MAP<h3></strong>
 
           </button>
 
           <br>
 
           <button class="btn btn-outline-danger pad_side wavy" id="restaurant"style="width:310px;height:70px;"> 
-            <strong><h3>New Restaurant!<h3></strong>
+            <strong><h3>NEW RESTAURANT!<h3></strong>
 
           </button>
           </div>
@@ -114,12 +114,12 @@
           
            <button class="btn btn-success pad_side" id="AllBars"style="width:350px;height:80px;">
             
-            <strong><h3>All Bars!</h3></strong>
+            <strong><h3>ALL BARS!</h3></strong>
 
           </button>
             <button class="btn btn-success pad_side" id="AllRestaurants"style="width:350px;height:80px;">
           
-          <strong>  <h3>All Restaurants!</h3> </strong>
+          <strong>  <h3>ALL RESTAURANT!</h3> </strong>
 
           </button> 
         
