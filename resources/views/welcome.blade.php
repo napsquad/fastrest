@@ -3,6 +3,11 @@
 @include('partials.navbar')
 <html>
 <head>
+
+  <title>Random Restaurant Picker, NoMoodFood</title>
+    <meta name="description" content="Cant pick where to go, let us! Simply Click on 'Any bar' or 'Any
+    Restaurant to select somewhere to go from the local places around you! Not in the mood for the first choice? Just try again!'">
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
     @include('partials.BsCss')
@@ -22,15 +27,15 @@
 
       <hr>
 
-         <div class="staythere"><a href="http://fbuy.me/jfGab"> <img src="nicehub.jpg" alt="picture of grubhub logo"></a></div>
+         <div class="staythere"><a href="http://fbuy.me/jfGab"> <img src="nicehub.jpg" alt="Grubhub logo for Random Selections"></a></div>
 
       <hr>
 
-         <div class="staythere"><a href="https://postmat.es/idMkqeTvUN"> <img src="postmates.png" alt="picture of grubhub logo"></a></div>
+         <div class="staythere"><a href="https://postmat.es/idMkqeTvUN"> <img src="postmates.png" alt="Postmates discount for Random selections"></a></div>
 
         <hr>
             <p>Follow Us On Twitter!</p>
-            <div class="staythere"><a href="https://twitter.com/nomoodfood"> <img src="twitter.jpg" alt="picture of twitter logo"></a></div>
+            <div class="staythere"><a href="https://twitter.com/nomoodfood"> <img src="twitter.jpg" alt="Twitter for no mood food"></a></div>
 
 
    </div>
@@ -63,26 +68,6 @@
           <div class=" center">
             <div id="map" class = "staythere mapstyle"style="width:auto;height:500px;"></div>
           </div>
-
-
-
-
-
-          <!-- hopefully this map will get working soon
-            <iframe
-              id="map"
-              width="600"
-              height="450"
-              frameborder="0" style="border:0"
-              src="https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY
-                &q=Space+Needle,Seattle+WA" allowfullscreen>
-            </iframe>
-            
-            -->
-
-
-
-
             
             <br>
 
