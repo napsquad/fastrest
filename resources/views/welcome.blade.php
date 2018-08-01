@@ -17,7 +17,7 @@
 <div>
   <div class="row">
 
-    <div class="col col-md-2">
+    <!--<div class="col col-md-2">
       <br><br>
 
     <div class="navbarS mapstyle spacepls center">
@@ -41,8 +41,9 @@
 
 <br>     
     </div>
+  -->
 
-    <div class="col-md-8 center">
+    <div class="col-md-12 center">
 
       
        <br>
@@ -65,7 +66,7 @@
 <div class="spacepls">
 
           <div class=" center">
-            <div id="map" class = "staythere mapstyle"style="width:100%;height:600px;"></div>
+            <div id="map" class = "staythere mapstyle"style="width:100%;height:700px;"></div>
           </div>
             
           <br>
@@ -105,7 +106,7 @@
     </div>
 
 
-      <div class="col-md-2">
+      <!-- <div class="col-md-2">
         <br><br>
 
     <div class="navbarS mapstyle spacepls center">
@@ -151,7 +152,7 @@
 
 
 
-       </div>
+       </div> -->
 
   
       </div>
