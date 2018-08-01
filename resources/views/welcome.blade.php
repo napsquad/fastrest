@@ -71,23 +71,25 @@
             <br>
 
            <div>
-           <button class="btn btn-outline-danger pad_side wavy" id="bars"style="width:310px;height:70px;"> 
+           <button class="btn btn-outline-danger pad_side wavy" id="bars"style="width:100%;height:80px;"> 
 
            <strong><h3>NEW BAR!<h3></strong>
 
            </button>
 
            <br>
+           <br>
 
-          <button class="btn btn-outline-primary pad_side wavy" id="update" style="width:310px;height:70px;"> 
+          <button class="btn btn-outline-primary pad_side wavy" id="update" style="width:100%;height:80px;"> 
 
           <strong><h3>RE-CENTER MAP<h3></strong>
 
           </button>
 
           <br>
+          <br>
 
-          <button class="btn btn-outline-danger pad_side wavy" id="restaurant"style="width:310px;height:70px;"> 
+          <button class="btn btn-outline-danger pad_side wavy" id="restaurant"style="width:100%;height:80px;"> 
             <strong><h3>NEW RESTAURANT!<h3></strong>
 
           </button>
