@@ -54,9 +54,6 @@
 
       <strong>Address:</strong>
       <h3 id="address" class="center">Click Buttons To Mark a New Place!</h3>
-
-      <hr>
-
       <strong>Rating:</strong>
       <h3 id="rating" class="center">Click the Marker To Zoom In On Your Choice!</h3>
     </div>
@@ -71,21 +68,21 @@
           <br>
 
            <div>
-           <button class="btn btn-outline-danger pad_side wavy" id="bars"style="width:100%;height:100px;"> 
+           <button class="btn btn-outline-danger pad_side wavy" id="bars"style="width:100%;height:80px;"> 
             <strong><h1>NEW BAR!<h1></strong>
            </button>
 
           <br>
           <br>
 
-          <button class="btn btn-outline-primary pad_side wavy" id="update" style="width:100%;height:100px;"> 
+          <button class="btn btn-outline-primary pad_side wavy" id="update" style="width:100%;height:80px;"> 
             <strong><h1>RE-CENTER MAP<h1></strong>
           </button>
 
           <br>
           <br>
 
-          <button class="btn btn-outline-danger pad_side wavy" id="restaurant"style="width:100%;height:100px;"> 
+          <button class="btn btn-outline-danger pad_side wavy" id="restaurant"style="width:100%;height:80px;"> 
             <strong><h1>NEW RESTAURANT!<h1></strong>
 
           </button>
@@ -94,7 +91,7 @@
           <br>
           <br>
 
-          <button class="btn btn-success pad_side" id="AllRestaurants"style="width:100%;height:100px;">
+          <button class="btn btn-success pad_side" id="AllRestaurants"style="width:100%;height:80px;">
             <strong>  <h1>ALL RESTAURANTS!</h1> </strong>
           </button> 
 
