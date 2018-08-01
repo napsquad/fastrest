@@ -18,10 +18,12 @@
 
 <div>
   <div class="row">
-    <div class="col-lg-2" id = "content-desktop">
+    <div class="col-md-1 col-lg-2" id = "content-desktop">
       <br>
       <br>
 
+
+<!--
 
   <div class="navbarS mapstyle spacepls center">
 
@@ -50,7 +52,7 @@
                 </a>
               </div>
    </div>
- 
+ -->
 
 <br>     
     </div>
@@ -60,7 +62,11 @@
       
        <br>
        
-      <a href="#"><h1 id="name" class="center title navbarS"style="width:100%"> RANDOM <br> RESTAURANT</h1> </a>
+      <a href="#">
+        <h1 id="name" class="center title navbarS"style="width:100%"> 
+          RANDOM <br> RESTAURANT
+        </h1> 
+      </a>
 
 
 <div class="navbarS mapstyle spacepls center">
@@ -117,7 +123,8 @@
     </div>
 
 
-    <div class="col-lg-2" id = "content-desktop">
+    <!--
+    <div class="col-md-1 col-lg-2" id = "content-desktop">
      
      <br>
       <br>
@@ -170,7 +177,7 @@
   
       </div>
 
-    </div>
+    </div> -->
  
 
     </div>
