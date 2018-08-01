@@ -47,7 +47,7 @@
       
        <br>
        
-      <a href="#"><h1 id="name" class="center title navbarS"style="width:100%"> RANDOM-RESTAURANT</h1> </a>
+      <a href="#"><h1 id="name" class="center title navbarS"style="width:100%"> RANDOM <br> RESTAURANT</h1> </a>
 
 
 <div class="navbarS mapstyle spacepls">

@@ -108,6 +108,7 @@ img {
 }
 
 .title {
+	font-size: 60px;
 	color:blue;
 	font-family: monoton;
 	word-wrap: break-word;
