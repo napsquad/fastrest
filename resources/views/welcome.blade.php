@@ -78,14 +78,14 @@
           <br>
           <br>
 
-          <button class="btn btn-outline-primary pad_side wavy" id="update" style="width:100%;height:33%;"> 
+          <button class="btn btn-outline-primary pad_side wavy" id="update" style="width:100%;height:100px;"> 
             <strong><h1>RE-CENTER MAP<h1></strong>
           </button>
 
           <br>
           <br>
 
-          <button class="btn btn-outline-danger pad_side wavy" id="restaurant"style="width:100%;height:33%;"> 
+          <button class="btn btn-outline-danger pad_side wavy" id="restaurant"style="width:100%;height:100px;"> 
             <strong><h1>NEW RESTAURANT!<h1></strong>
 
           </button>
@@ -94,7 +94,7 @@
           <br>
           <br>
 
-          <button class="btn btn-success pad_side" id="AllRestaurants"style="width:100%;height:33%;">
+          <button class="btn btn-success pad_side" id="AllRestaurants"style="width:100%;height:100px;">
             <strong>  <h1>ALL RESTAURANTS!</h1> </strong>
           </button> 
 
