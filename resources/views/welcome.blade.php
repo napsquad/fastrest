@@ -68,22 +68,18 @@
             <div id="map" class = "staythere mapstyle"style="width:auto;height:500px;"></div>
           </div>
             
-            <br>
+          <br>
 
            <div>
            <button class="btn btn-outline-danger pad_side wavy" id="bars"style="width:100%;height:80px;"> 
-
-           <strong><h3>NEW BAR!<h3></strong>
-
+            <strong><h3>NEW BAR!<h3></strong>
            </button>
 
-           <br>
-           <br>
+          <br>
+          <br>
 
           <button class="btn btn-outline-primary pad_side wavy" id="update" style="width:100%;height:80px;"> 
-
-          <strong><h3>RE-CENTER MAP<h3></strong>
-
+            <strong><h3>RE-CENTER MAP<h3></strong>
           </button>
 
           <br>
@@ -98,30 +94,20 @@
           <br>
 
           
-           <button class="btn btn-success pad_side" id="AllBars"style="width:350px;height:80px;">
-            
+          <button class="btn btn-success pad_side" id="AllBars"style="width:100%;height:80px;">
             <strong><h3>ALL BARS!</h3></strong>
-
           </button>
-            <button class="btn btn-success pad_side" id="AllRestaurants"style="width:350px;height:80px;">
-          
-          <strong>  <h3>ALL RESTAURANT!</h3> </strong>
 
+          <br>
+          <br>
+
+          <button class="btn btn-success pad_side" id="AllRestaurants"style="width:100%;height:80px;">
+            <strong>  <h3>ALL RESTAURANT!</h3> </strong>
           </button> 
         
 
 </div>
-          <br>
-
-        <div class="navbarS mapstyle spacepls"><strong>Distance to search(meters):</strong>  
-
-        <input class="form-control" type="text" id="dist" placeholder="1000m">
-        <br>
-        <button class="btn btn-outline-danger pad_side" id="where"> Pick Your Radius!</button>
-
-      </div>
-
-
+          <br> 
 
     </div>
 
