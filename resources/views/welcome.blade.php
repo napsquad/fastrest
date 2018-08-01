@@ -17,7 +17,7 @@
 <div>
   <div class="row">
 
-    <!--<div class="col col-md-2">
+    <div class="col-md-1 col-lg-2" id = "content-desktop">
       <br><br>
 
     <div class="navbarS mapstyle spacepls center">
@@ -41,9 +41,8 @@
 
 <br>     
     </div>
-  -->
 
-    <div class="col-md-12 center">
+    <div class="col-md-10 col-lg-8 center">
 
       
        <br>
@@ -106,7 +105,7 @@
     </div>
 
 
-      <!-- <div class="col-md-2">
+    <div class="col-md-1 col-lg-2" id = "content-desktop">
         <br><br>
 
     <div class="navbarS mapstyle spacepls center">
@@ -157,8 +156,7 @@
   
       </div>
 
-
-      </div>
+    </div>
  
 
     </div>
