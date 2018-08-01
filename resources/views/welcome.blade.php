@@ -65,28 +65,28 @@
 <div class="spacepls">
 
           <div class=" center">
-            <div id="map" class = "staythere mapstyle"style="width:auto;height:600px;"></div>
+            <div id="map" class = "staythere mapstyle"style="width:100%;height:600px;"></div>
           </div>
             
           <br>
 
            <div>
            <button class="btn btn-outline-danger pad_side wavy" id="bars"style="width:100%;height:100px;"> 
-            <strong><h3>NEW BAR!<h3></strong>
+            <strong><h1>NEW BAR!<h1></strong>
            </button>
 
           <br>
           <br>
 
           <button class="btn btn-outline-primary pad_side wavy" id="update" style="width:100%;height:100px;"> 
-            <strong><h3>RE-CENTER MAP<h3></strong>
+            <strong><h1>RE-CENTER MAP<h1></strong>
           </button>
 
           <br>
           <br>
 
           <button class="btn btn-outline-danger pad_side wavy" id="restaurant"style="width:100%;height:100px;"> 
-            <strong><h3>NEW RESTAURANT!<h3></strong>
+            <strong><h1>NEW RESTAURANT!<h1></strong>
 
           </button>
           </div>
@@ -95,7 +95,7 @@
           <br>
 
           <button class="btn btn-success pad_side" id="AllRestaurants"style="width:100%;height:100px;">
-            <strong>  <h3>ALL RESTAURANTS!</h3> </strong>
+            <strong>  <h1>ALL RESTAURANTS!</h1> </strong>
           </button> 
         
 
