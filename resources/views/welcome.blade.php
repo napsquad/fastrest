@@ -92,17 +92,10 @@
           </div>
 
           <br>
-
-          
-          <button class="btn btn-success pad_side" id="AllBars"style="width:100%;height:80px;">
-            <strong><h3>ALL BARS!</h3></strong>
-          </button>
-
-          <br>
           <br>
 
           <button class="btn btn-success pad_side" id="AllRestaurants"style="width:100%;height:80px;">
-            <strong>  <h3>ALL RESTAURANT!</h3> </strong>
+            <strong>  <h3>ALL RESTAURANTS!</h3> </strong>
           </button> 
         
 
