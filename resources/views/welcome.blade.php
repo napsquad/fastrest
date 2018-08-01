@@ -18,12 +18,13 @@
 
 <div>
   <div class="row">
-    <div class="col-md-1 col-lg-2" id = "content-desktop">
+ 
+ <!--   <div class="col-md-1 col-lg-2" id = "content-desktop">
       <br>
       <br>
 
 
-<!--
+
 
   <div class="navbarS mapstyle spacepls center">
 
@@ -52,12 +53,12 @@
                 </a>
               </div>
    </div>
- -->
 
-<br>     
+
+<br>    -->  
     </div>
 
-    <div class="col-md-12 col-lg-8 ">
+    <div class="col-md-12 col-lg-12 ">
 
       
        <br>
