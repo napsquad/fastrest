@@ -65,7 +65,7 @@
 <div class="spacepls">
 
           <div class=" center">
-            <div id="map" class = "staythere mapstyle"style="width:auto;height:700px;"></div>
+            <div id="map" class = "staythere mapstyle"style="width:auto;height:600px;"></div>
           </div>
             
           <br>
