@@ -42,7 +42,7 @@
 <br>     
     </div>
 
-    <div class="col-md-12 col-lg-8 center">
+    <div class="col-md-10 col-lg-8 center">
 
       
        <br>
