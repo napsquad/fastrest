@@ -18,7 +18,7 @@
 
 <div>
   <div class="row">
-    <div class="col-md-6 col-lg-2" id = "content-desktop">
+    <div class="col-lg-2" id = "content-desktop">
       <br>
       <br>
 
@@ -117,7 +117,7 @@
     </div>
 
 
-    <div class="col-md-2 col-lg-2" id = "content-desktop">
+    <div class="col-lg-2" id = "content-desktop">
      
      <br>
       <br>
