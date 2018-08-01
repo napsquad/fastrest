@@ -18,33 +18,44 @@
 
 <div>
   <div class="row">
-
-    <div class="col-md-1 col-lg-2" id = "content-desktop">
-      <br><br>
-
-    <div class="navbarS mapstyle spacepls center">
-      <p>$10 off your order!</p> 
+    <div class="col-md-6 col-lg-2" id = "content-desktop">
+      <br>
+      <br>
 
 
-      <hr>
+  <div class="navbarS mapstyle spacepls center">
 
-         <div class="staythere"><a href="http://fbuy.me/jfGab"> <img src="nicehub.jpg" alt="Grubhub logo for Random Selections"></a></div>
-
-      <hr>
-
-         <div class="staythere"><a href="https://postmat.es/idMkqeTvUN"> <img src="postmates.png" alt="Postmates discount for Random selections"></a></div>
+        <p>$10 off your order!</p> 
 
         <hr>
-            <p>Follow Us On Twitter!</p>
-            <div class="staythere"><a href="https://twitter.com/nomoodfood"> <img src="twitter.jpg" alt="Twitter for no mood food"></a></div>
+           <div class="staythere">
+              <a href="http://fbuy.me/jfGab"> 
+                <img src="nicehub.jpg" alt="Grubhub logo for Random Selections">
+              </a>
+           </div>
+        <hr>
 
+           <div class="staythere">
+            <a href="https://postmat.es/idMkqeTvUN"> 
+              <img src="postmates.png" alt="Postmates discount for Random selections">
+            </a>
+          </div>
+        <hr>
 
+              <p>Follow Us On Twitter!</p>
+
+              <div class="staythere">
+                <a href="https://twitter.com/nomoodfood"> 
+                  <img src="twitter.jpg" alt="Twitter for no mood food">
+                </a>
+              </div>
    </div>
+ 
 
 <br>     
     </div>
 
-    <div class="col-md-10 col-lg-8 ">
+    <div class="col-md-12 col-lg-8 ">
 
       
        <br>
@@ -52,7 +63,7 @@
       <a href="#"><h1 id="name" class="center title navbarS"style="width:100%"> RANDOM <br> RESTAURANT</h1> </a>
 
 
-<div class="navbarS mapstyle spacepls">
+<div class="navbarS mapstyle spacepls center">
 
       <strong>Address:</strong>
       <h3 id="address" class="center">Click Buttons To Mark a New Place!</h3>
@@ -106,8 +117,10 @@
     </div>
 
 
-    <div class="col-md-1 col-lg-2" id = "content-desktop">
-        <br><br>
+    <div class="col-md-2 col-lg-2" id = "content-desktop">
+     
+     <br>
+      <br>
 
     <div class="navbarS mapstyle spacepls center">
       <p>$10 off your order!</p> 
@@ -152,7 +165,7 @@
 
 
 
-       </div> -->
+       </div> 
 
   
       </div>
