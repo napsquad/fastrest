@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 
 @include('partials.navbar')
+
 <html>
 <head>
 
@@ -10,8 +11,9 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
     @include('partials.BsCss')
-    <title>No Mood Food</title>
+
 </head>
+
 <body class="background">
 
 <div>
@@ -42,7 +44,7 @@
 <br>     
     </div>
 
-    <div class="col-md-10 col-lg-8 center">
+    <div class="col-md-10 col-lg-8 ">
 
       
        <br>
@@ -98,7 +100,7 @@
           </div>
         
 
-</div>
+            </div>
           <br> 
 
     </div>
@@ -159,7 +161,7 @@
  
 
     </div>
-    </div>
+</div>
 
 
 
