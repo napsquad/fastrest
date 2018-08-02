@@ -72,9 +72,9 @@
 
 <div class="navbarS mapstyle spacepls center">
 
-      <strong class="address"><h1><u>Address</u></h1></strong>
+      <strong class="adress"><h1><u>Address</u></h1></strong>
       <h2 id="address" class="center">Click Buttons To Mark a New Place!</h2>
-      <strong class ="address"><h1><u>Rating</u></h1></strong>
+      <strong class ="adress"><h1><u>Rating</u></h1></strong>
       <h2 id="rating" class="center">Click the Marker To Zoom In On Your Choice!</h2>
     </div>
 
@@ -95,18 +95,18 @@
           <br>
           <br>
 
-          <button class="btn btn-outline-primary pad_side wavy" id="update" style="width:100%;height:100px;"> 
-            <strong><h1>RE-CENTER MAP<h1></strong>
-          </button>
-
-          <br>
-          <br>
-
           <button class="btn btn-outline-danger pad_side wavy" id="restaurant"style="width:100%;height:100px;"> 
             <strong><h1>NEW RESTAURANT!<h1></strong>
 
           </button>
           
+
+          <br>
+          <br>
+
+          <button class="btn btn-outline-primary pad_side wavy" id="update" style="width:100%;height:100px;"> 
+            <strong><h1>RE-CENTER MAP<h1></strong>
+          </button>
 
           <br>
           <br>
