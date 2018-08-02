@@ -65,7 +65,7 @@
        
       <a href="#">
         <h1 id="name" class="center title navbarS"style="width:100%"> 
-          RANDOM RESTAURANT
+          Random Restaurant
         </h1> 
       </a>
 
