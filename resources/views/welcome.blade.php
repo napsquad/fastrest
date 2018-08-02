@@ -5,7 +5,7 @@
 <html>
 <head>
 
-  <title>Random Restaurant Picker | NoMoodFood</title>
+  <title>Random Restaurant Selection | NoMoodFood</title>
     <meta name="description" content="Random Restaurant Selection made Easy! Simply Click on 'Any bar' or 'Any Restaurant to select somewhere to go from the local places around you! Not in the mood for the first choice? Just try again!'">
     <meta http-equiv="content-type" content="text/html;charset=UTF-8">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -88,21 +88,21 @@
           <br>
 
            <div>
-           <button class="btn btn-outline-danger pad_side wavy" id="bars"style="width:100%;height:80px;"> 
+           <button class="btn btn-outline-danger pad_side wavy" id="bars"style="width:100%;height:100px;"> 
             <strong><h1>NEW BAR!<h1></strong>
            </button>
 
           <br>
           <br>
 
-          <button class="btn btn-outline-primary pad_side wavy" id="update" style="width:100%;height:80px;"> 
+          <button class="btn btn-outline-primary pad_side wavy" id="update" style="width:100%;height:100px;"> 
             <strong><h1>RE-CENTER MAP<h1></strong>
           </button>
 
           <br>
           <br>
 
-          <button class="btn btn-outline-danger pad_side wavy" id="restaurant"style="width:100%;height:80px;"> 
+          <button class="btn btn-outline-danger pad_side wavy" id="restaurant"style="width:100%;height:100px;"> 
             <strong><h1>NEW RESTAURANT!<h1></strong>
 
           </button>
