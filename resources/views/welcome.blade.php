@@ -19,7 +19,7 @@
 <div>
   <div class="row">
  
-   <div class="d-md-none d-lg-block col-lg-2" id = "content-desktop">
+   <div class="d-xs-none d-sm-none d-md-none d-lg-block col-lg-2" id = "content-desktop">
       <br>
       <br>
 
@@ -58,7 +58,7 @@
 <br>    
     </div>
 
-    <div class="col-md-12 col-lg-8 ">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8 ">
 
       
        <br>
@@ -125,7 +125,7 @@
 
 
    
-    <div class="d-md-none d-lg-block col-lg-2" id = "content-desktop">
+    <div class="d-xs-none d-sm-none d-md-none d-lg-block col-lg-2" id = "content-desktop">
      
      <br>
       <br>
