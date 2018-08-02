@@ -52,7 +52,12 @@
                   <img src="twitter.jpg" alt="Twitter for no mood food">
                 </a>
               </div>
+
+
+
+
    </div>
+
 
 
 <br>    
@@ -79,7 +84,11 @@
     </div>
 
 
-<div class="spacepls">
+<div>
+
+   <div class = "center">
+       <input type="button" button="" class="btn btn-borders btn-primary mr-xs mb-sm"style="width:100%" value="Donate To Keep The Site Running" onclick="window.location.href='https://venmo.com/NoMoodFunds'"">
+    </div>
 
           <div class=" center">
             <div id="map" class = "staythere mapstyle"style="width:100%;height:700px;"></div>
@@ -120,6 +129,9 @@
 
             </div>
           <br> 
+
+
+   
 
     </div>
 
