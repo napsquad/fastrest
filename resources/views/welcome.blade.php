@@ -19,7 +19,7 @@
 <div>
   <div class="row">
  
- <!--   <div class="col-md-1 col-lg-2" id = "content-desktop">
+   <div class="d-md-none d-lg-block col-lg-2" id = "content-desktop">
       <br>
       <br>
 
@@ -55,10 +55,10 @@
    </div>
 
 
-<br>    -->  
+<br>    
     </div>
 
-    <div class="col-md-12 col-lg-12 ">
+    <div class="col-md-12 col-lg-8 ">
 
       
        <br>
@@ -124,8 +124,8 @@
     </div>
 
 
-    <!--
-    <div class="col-md-1 col-lg-2" id = "content-desktop">
+   
+    <div class="d-md-none d-lg-block col-lg-2" id = "content-desktop">
      
      <br>
       <br>
@@ -178,7 +178,7 @@
   
       </div>
 
-    </div> -->
+    </div> 
  
 
     </div>
