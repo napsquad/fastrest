@@ -65,16 +65,16 @@
        
       <a href="#">
         <h1 id="name" class="center title navbarS"style="width:100%"> 
-          RANDOM <br> RESTAURANT
+          RANDOM RESTAURANT
         </h1> 
       </a>
 
 
 <div class="navbarS mapstyle spacepls center">
 
-      <strong>Address:</strong>
+      <strong><h3>Address:</h3></strong>
       <h3 id="address" class="center">Click Buttons To Mark a New Place!</h3>
-      <strong>Rating:</strong>
+      <strong><h3>Rating:</h3></strong>
       <h3 id="rating" class="center">Click the Marker To Zoom In On Your Choice!</h3>
     </div>
 
