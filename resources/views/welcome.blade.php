@@ -72,10 +72,10 @@
 
 <div class="navbarS mapstyle spacepls center">
 
-      <strong><h3>Address:</h3></strong>
-      <h3 id="address" class="center">Click Buttons To Mark a New Place!</h3>
-      <strong><h3>Rating:</h3></strong>
-      <h3 id="rating" class="center">Click the Marker To Zoom In On Your Choice!</h3>
+      <strong class="address"><h1><u>Address</u></h1></strong>
+      <h2 id="address" class="center">Click Buttons To Mark a New Place!</h2>
+      <strong class ="address"><h1><u>Rating</u></h1></strong>
+      <h2 id="rating" class="center">Click the Marker To Zoom In On Your Choice!</h2>
     </div>
 
 
