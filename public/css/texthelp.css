@@ -68,16 +68,6 @@ img {
 @media screen and (max-width: 990px) and (min-width:300px)
 {
 
-#address {
-
-font-size: 25px;
-
-}
-
-#rating {
-	font-size: 25px;
-	
-}
 #content-desktop {
 	visibility: hide;
 }
@@ -87,17 +77,17 @@ font-size: 25px;
 	visibility: show;
 }
 
-#titles{
-	font-size: 30px;
-}
+#map {
 
+	width:300px;
+	height:400px;
+}
 
 }
 
 @media screen and (max-width: 9000px) and (min-width:991px)
 {
 
-
 #content-desktop {
 	visibility: show;
 }
@@ -107,6 +97,11 @@ font-size: 25px;
 	visibility: hide;
 }
 
+#map {
+
+	width:300px;
+	height:400px;
+}
 #name {
 	font-size:40px;
 }
@@ -120,10 +115,6 @@ font-size: 20px;
 #rating {
 	font-size: 20px;
 	
-}
-
-#titles {
-	font-size: 25px;
 }
 	
 

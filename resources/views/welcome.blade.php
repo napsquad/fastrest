@@ -75,11 +75,11 @@
       </a>
 
 
-<div id="rating" class="navbarS mapstyle spacepls center">
+<div class="navbarS mapstyle spacepls center">
 
-      <h1 id="titles" class="adress"><u>Address</u></h1>
+      <strong class="adress"><h1><u>Address</u></h1></strong>
       <h2 id="address" class="center">Click Buttons To Mark a New Place!</h2>
-      <h1  id = "titles" class ="adress"><u>Rating</u></h1>
+      <strong class ="adress"><h1><u>Rating</u></h1></strong>
       <h2 id="rating" class="center">Click the Marker To Zoom In On Your Choice!</h2>
     </div>
 
@@ -87,24 +87,24 @@
 <div>
 
    <div class = "center">
-       <input type="button" button="" class="btn btn-borders btn-primary mr-xs mb-sm"style="width:100%" value="Donate To Keep The Site Running" onclick="window.location.href='https://venmo.com/NoMoodFunds'">
+       <input type="button" button="" class="btn btn-borders btn-primary mr-xs mb-sm"style="width:100%" value="Donate To Keep The Site Running" onclick="window.location.href='https://venmo.com/NoMoodFunds'"">
     </div>
 
           <div class=" center">
-            <div id="map" class = "staythere mapstyle"style="width:100%;height:675px;"></div>
+            <div id="map" class = "staythere mapstyle"style="width:100%;height:700px;"></div>
           </div>
             
           <br>
 
            <div>
-           <button class="btn btn-outline-danger pad_side wavy" id="bars" style="width:100%;height:100px;"> 
+           <button class="btn btn-outline-danger pad_side wavy" id="bars"style="width:100%;height:100px;"> 
             <strong><h1>NEW BAR!<h1></strong>
            </button>
 
           <br>
           <br>
 
-          <button class="btn btn-outline-danger pad_side wavy" id="restaurant" style="width:100%;height:100px;"> 
+          <button class="btn btn-outline-danger pad_side wavy" id="restaurant"style="width:100%;height:100px;"> 
             <strong><h1>NEW RESTAURANT!<h1></strong>
 
           </button>
