@@ -75,11 +75,11 @@
       </a>
 
 
-<div class="navbarS mapstyle spacepls center">
+<div id="rating" class="navbarS mapstyle spacepls center">
 
-      <strong class="adress"><h1><u>Address</u></h1></strong>
+      <strong  class="adress"><h1><u>Address</u></h1></strong>
       <h2 id="address" class="center">Click Buttons To Mark a New Place!</h2>
-      <strong class ="adress"><h1><u>Rating</u></h1></strong>
+      <strong  class ="adress"><h1><u>Rating</u></h1></strong>
       <h2 id="rating" class="center">Click the Marker To Zoom In On Your Choice!</h2>
     </div>
 
@@ -97,14 +97,14 @@
           <br>
 
            <div>
-           <button class="btn btn-outline-danger pad_side wavy" id="bars"style="width:100%;height:100px;"> 
+           <button class="btn btn-outline-danger pad_side wavy" id="bars" style="width:100%;height:100px;"> 
             <strong><h1>NEW BAR!<h1></strong>
            </button>
 
           <br>
           <br>
 
-          <button class="btn btn-outline-danger pad_side wavy" id="restaurant"style="width:100%;height:100px;"> 
+          <button class="btn btn-outline-danger pad_side wavy" id="restaurant" style="width:100%;height:100px;"> 
             <strong><h1>NEW RESTAURANT!<h1></strong>
 
           </button>
