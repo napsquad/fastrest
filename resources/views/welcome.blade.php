@@ -91,7 +91,7 @@
     </div>
 
           <div class=" center">
-            <div id="map" class = "staythere mapstyle"style="width:100%;height:700px;"></div>
+            <div id="map" class = "staythere mapstyle"style="width:100%;height:650px;"></div>
           </div>
             
           <br>
