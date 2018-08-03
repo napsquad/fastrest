@@ -68,6 +68,16 @@ img {
 @media screen and (max-width: 990px) and (min-width:300px)
 {
 
+#address {
+
+font-size: 45px;
+
+}
+
+#rating {
+	font-size: 45px;
+	
+}
 #content-desktop {
 	visibility: hide;
 }
