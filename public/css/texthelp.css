@@ -77,16 +77,16 @@ img {
 	visibility: show;
 }
 
-#map {
-
-	width:300px;
-	height:400px;
+#titles{
+	font-size: 50px;
 }
+
 
 }
 
 @media screen and (max-width: 9000px) and (min-width:991px)
 {
+
 
 #content-desktop {
 	visibility: show;
@@ -97,11 +97,6 @@ img {
 	visibility: hide;
 }
 
-#map {
-
-	width:300px;
-	height:400px;
-}
 #name {
 	font-size:40px;
 }
@@ -115,6 +110,10 @@ font-size: 20px;
 #rating {
 	font-size: 20px;
 	
+}
+
+#titles {
+	font-size: 25px;
 }
 	
 
