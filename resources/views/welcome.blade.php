@@ -77,9 +77,9 @@
 
 <div id="rating" class="navbarS mapstyle spacepls center">
 
-      <strong id="titles" class="adress"><u>Address</u></strong>
+      <h1 id="titles" class="adress"><u>Address</u></h1>
       <h2 id="address" class="center">Click Buttons To Mark a New Place!</h2>
-      <strong  id = "titles" class ="adress"><u>Rating</u></strong>
+      <h1  id = "titles" class ="adress"><u>Rating</u></h1>
       <h2 id="rating" class="center">Click the Marker To Zoom In On Your Choice!</h2>
     </div>
 
