@@ -96,6 +96,14 @@
             
           <br>
 
+
+          <button class="btn btn-outline-info pad_side wavy" id="takeout" style="width:100%;height:100px;"> 
+            <strong><h1>FIND ME TAKEOUT!<h1></strong>
+          </button>
+
+           <br>
+          <br>
+
            <div>
            <button class="btn btn-outline-danger pad_side wavy" id="bars"style="width:100%;height:100px;"> 
             <strong><h1>NEW BAR!<h1></strong>
@@ -104,11 +112,10 @@
           <br>
           <br>
 
-          <button class="btn btn-outline-danger pad_side wavy" id="restaurant"style="width:100%;height:100px;"> 
+          <button class="btn btn-outline-danger pad_side wavy" id="restaurant" style="width:100%;height:100px;"> 
             <strong><h1>NEW RESTAURANT!<h1></strong>
-
           </button>
-          
+
 
           <br>
           <br>
@@ -123,6 +130,8 @@
           <button class="btn btn-success pad_side" id="AllRestaurants"style="width:100%;height:80px;">
             <strong>  <h1>ALL RESTAURANTS!</h1> </strong>
           </button> 
+        
+
 
           </div>
         

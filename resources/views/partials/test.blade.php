@@ -53,6 +53,29 @@ $(document).ready(function()
 $(document).ready(function()
 {
 
+  $("#takeout").click(function()
+  {
+
+      if (navigator.geolocation) 
+         {
+
+            navigator.geolocation.getCurrentPosition(showPosition);
+            getTake();
+
+         }
+         else
+         {
+
+          alert("geolocation is broken or not supported on your browser");
+
+         }
+  });
+});
+
+
+$(document).ready(function()
+{
+
   $("#where").click(function()
   {
 
@@ -134,7 +157,7 @@ function getBar()
 
 	 map = new google.maps.Map(document.getElementById('map'), {
       center: current,
-      zoom: 12
+      zoom: 13
      });
 
 	var request = {
@@ -148,6 +171,26 @@ function getBar()
 
 }
 
+function getTake()
+{
+   var current = new google.maps.LatLng(lat, long);
+
+   map = new google.maps.Map(document.getElementById('map'), {
+      center: current,
+      zoom: 13
+     });
+
+  var request = {
+    location: current,
+    radius: 5000,
+    type: ['meal_takeaway']
+    };
+
+  service = new google.maps.places.PlacesService(map);
+  service.nearbySearch(request, callback);
+
+}
+
 
 
 function getRest()
@@ -156,7 +199,7 @@ function getRest()
 
    map = new google.maps.Map(document.getElementById('map'), {
       center: current,
-      zoom: 12
+      zoom: 13
      });
 
   var request = {
